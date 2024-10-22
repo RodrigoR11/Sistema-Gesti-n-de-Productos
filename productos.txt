@@ -1,0 +1,4 @@
+Producto: Leche, Precio: 4000, Cantidad: 5
+Producto: Huevo, Precio: 1000, Cantidad: 30
+Producto: Harina, Precio: 6000, Cantidad: 2
+Producto: Agua, Precio: 3000, Cantidad: 5
